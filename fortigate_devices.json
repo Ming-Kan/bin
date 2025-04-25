@@ -1,0 +1,10 @@
+[
+    {
+        "api_host": "192.168.1.1",
+        "api_port": "8443",
+        "api_token": "your-api-token-1",
+        "verify_ssl": false,
+        "backup_dir": "C:\\backups\\firewall1",
+        "backup_filename": "backup.conf"
+    }
+]
